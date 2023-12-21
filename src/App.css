@@ -1,0 +1,76 @@
+@font-face {
+  font-family: own-font;
+ 
+  src: url(./assests/Rota_fonts/Rota/Rota-Black.otf );
+
+}
+@font-face {
+font-family: own-font-2;
+  src: url(./assests/Rota_fonts/Rota/Rota-Bold.otf);
+}
+
+@font-face {
+  font-family: own-font-3;
+ 
+  src: url(./assests/Rota_fonts/Rota/Rota-Medium.otf );
+
+}
+@font-face {
+font-family: own-font-4;
+  src: url(./assests/Rota_fonts/Rota/Rota-Regular.otf);
+}
+
+.App{
+  display: grid;
+  justify-content: center;
+  /* align-items: center; */
+  position: relative;
+  top: 3cm;
+}
+#logomain{
+  text-align: center;
+  justify-self: center;
+  position: relative;
+  top: -2cm;
+}
+#bottom-container{
+  display: flex;
+  position: relative;
+ /* left: 4cm; */
+ top: 0.8cm;
+}
+
+
+/* #b-cont-2{
+
+  position: relative;
+ left: -4cm;
+ top: 0cm;
+} */
+
+
+@media only screen and (max-width:768px) {
+  html,body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+   width: 100%;
+  }
+  #top-container{
+    gap:10px;
+ }
+ #demos{
+  display:grid;
+  position: relative;
+  left: 1cm;
+
+
+}
+  #bottom-container{
+    position: relative;
+    top:0.1cm;
+      gap:10px;
+      padding: 10px 0px;
+}
+
+}

@@ -1,0 +1,43 @@
+.container-5{
+    background-color: #f2f1f1;
+width: 40vh;
+height: 25vh;
+display: grid;
+align-items: center;
+
+border-radius: 0.4cm;
+
+}
+.values-5{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+    left: 0.4cm;
+}
+.values-5>span{
+    position: relative;
+    top: 0.5cm;
+    right: 1.3cm;
+    color: #696866;
+
+}
+.values-5>h6{
+   color: #999999;
+
+}
+.values-5>h1{
+    color:#5448c8;
+    font-size: 4rem;
+}
+.values-5>h4{
+    background-color:#6DD0A5;
+    color: white;
+    text-align: center;
+    display: flex;
+    font-size: 15px;
+    align-items: center;
+    height: 25px;
+    padding:0px 12px;
+    border-radius: 6px;
+}
