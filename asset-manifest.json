@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Task./static/css/main.b9104e2f.css",
+    "main.js": "/Task./static/js/main.cc4d403d.js",
+    "static/media/Rota-Bold.otf": "/Task./static/media/Rota-Bold.3048305a43955892b568.otf",
+    "static/media/Rota-Regular.otf": "/Task./static/media/Rota-Regular.bb2d22518da2476b9f41.otf",
+    "static/media/Rota-Medium.otf": "/Task./static/media/Rota-Medium.87d754aaffd025a45f05.otf",
+    "static/media/Rota-Black.otf": "/Task./static/media/Rota-Black.953b68de6d8440b1bc79.otf",
+    "static/media/logo.svg": "/Task./static/media/logo.62e5e9965cb3984b0ce1f48db240873f.svg",
+    "static/media/snowflake.svg": "/Task./static/media/snowflake.44185d1b1273dd993d5b24ac4e58dac8.svg",
+    "static/media/fire.svg": "/Task./static/media/fire.cf3433ca842cc761638859cafc5ada76.svg",
+    "index.html": "/Task./index.html",
+    "main.b9104e2f.css.map": "/Task./static/css/main.b9104e2f.css.map",
+    "main.cc4d403d.js.map": "/Task./static/js/main.cc4d403d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9104e2f.css",
+    "static/js/main.cc4d403d.js"
+  ]
+}
